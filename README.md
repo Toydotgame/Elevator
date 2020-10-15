@@ -13,5 +13,5 @@ tooExpensiveRemover requires SeePlayerInventory for permissions. Mainly due to q
 
 ## Installing
 * Download the latest release of tooExpensiveRemover from the [releases](https://github.com/Toydotgame/tooExpensiveRemover/releases) tab along with SeePlayerInventory (Either from [Spigot](https://www.spigotmc.org/resources/seeplayerinventory.11913/download?version=43331) or the [latest release](https://github.com/Toydotgame/tooExpensiveRemover/releases) page)
-* Once downloaded, put the two `.jar`s into the `\plugins` directory of your Spigot 1.6.4 server.
+* Once downloaded, put the two `.jar`s into the `/plugins` directory of your Spigot 1.6.4 server.
 * Run `reload` or `restart` in the console, or `stop` and manually re-launch the server by yourself. The plugin will be loaded automatically.
