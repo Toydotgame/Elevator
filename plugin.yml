@@ -1,3 +1,11 @@
 name: tooExpensiveRemover
-main: io.github.Toydotgame.tooExpensiveRemover
+main: io.github.Toydotgame.Main
 version: 0.0.1
+author: Toydotgam
+
+commands:
+   resetcost:
+      description: Resets the enchantment cost of the held item.
+      usage: /resetcost
+      permission: seeplayerinventory.use
+      permission-message: Only operators can reset the enchantment cost of items!
