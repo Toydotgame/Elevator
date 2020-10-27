@@ -16,6 +16,8 @@ Elevator requires SeePlayerInventory for permissions. Mainly due to quick coding
 ### SeePlayerInventory related pages:
 * [SpigotMC.org](https://www.spigotmc.org/resources/seeplayerinventory.11913/)
     * [Wayback Machine Snapshot](http://web.archive.org/web/20190128163728/https://www.spigotmc.org/resources/seeplayerinventory.11913/)
+    * [Spigot Direct Download Link](https://www.spigotmc.org/resources/seeplayerinventory.11913/download?version=43331)
+* [Direct GitHub Download (From this repo.)](https://raw.githubusercontent.com/Toydotgame/Elevator/master/SeePlayerInventory.jar)
 
 ## Planned Features
 * Confirmation message when you ascend.
